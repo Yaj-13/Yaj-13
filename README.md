@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **CREATING CREATIVE DISCORD BOTS**
 
-- 📫 How to reach me **ON TWITTER @k4y_5**
-
 - ⚡ Fun fact **I'M AN EDITOR AND I LIKE FRIES😁**
 
 <h3 align="left">Connect with me:</h3>
