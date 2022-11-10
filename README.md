@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YAJ</h1>
-<h3 align="center">A SC STUDENT AT TAIBAH UNIVERSITY</h3>
+<h3 align="center">A CS STUDENT AT TAIBAH UNIVERSITY</h3>
 
 - 🔭 I’m currently working on **DISCORD BOTS**
 
