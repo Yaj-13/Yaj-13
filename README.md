@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm YAJ fronted developer | CS Student & CO-Founder of Emtethal</div>  
