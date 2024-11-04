@@ -1,10 +1,10 @@
  
   
 
-### <div align="center">I'm YAJ fronted developer | CS Student & CO-Founder of Emtethal</div>  
+### <div align="center">I'm YAJ fronted developer | </div>  
   
 
-- 🔭 I’m currently working on [Emtethal](~)  
+
   
 
 - 🌱 I’m currently learning 3D modeling  and C#  
