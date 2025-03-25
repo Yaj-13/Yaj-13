@@ -1,16 +1,16 @@
  
   
 
-### <div align="center">I'm YAJ fronted developer | </div>  
+### <div align="center">I'm YAJ a Programmer | </div>  
   
 
 
   
 
-- 🌱 I’m currently learning 3D modeling  and C#  
+- 🌱 I’m currently learning AI  and vb.et  
   
 
-- ❓ Ask me about anything related to Metaverse  and related technologies  
+- ❓ Ask me about anything related to AI  and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
